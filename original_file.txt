@@ -1,0 +1,3 @@
+Make sure to place this script at the root of your project directory.
+You can then execute it with the paths to your original and new files as arguments.
+This will print the differences line by line, highlighting the changes between the two files.
